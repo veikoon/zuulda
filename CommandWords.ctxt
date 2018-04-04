@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\r\n\ Cette\ classe\ est\ une\ classe\ du\ jeu\:\ The\ legend\ of\ Zuulda\r\n\ C'est\ un\ jeu\ d'aventure\ dans\ le\ style\ d'un\ rpg\r\n\ \r\n\ ComandWords\ est\ la\ classe\ qui\ liste\ les\ commandes\ existantes\r\n
+comment1.params=
+comment1.target=CommandWords()
+comment1.text=\r\n\ Constructeur\ par\ defaut\r\n
+comment2.params=pString
+comment2.target=boolean\ isCommand(java.lang.String)
+comment2.text=\r\n\ Verifie\ si\ une\ String\ donnee\ fait\ partie\ des\ commandes\ valides.\ \r\n\ @param\ pString\ la\ String\ a\ tester\r\n\ @return\ true\ si\ pString\ est\ une\ comande\ valide,\ false\ sinon\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCommandList()
+comment3.text=\r\n\ Methode\ qui\ affiche\ la\ liste\ des\ commandes\ disponnibles\r\n
+numComments=4

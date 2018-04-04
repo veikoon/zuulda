@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Cette\ classe\ est\ une\ classe\ du\ jeu\:\ The\ legend\ of\ Zuulda\r\n\ C'est\ un\ jeu\ d'aventure\ dans\ le\ style\ d'un\ rpg\r\n\ \r\n\ Game\ est\ la\ classe\ principale\ du\ jeu,\ elle\ affiche\ les\ informations\ d'entr\u00E9\ et\ de\ sortie\ du\ jeu\r\n\ Elle\ initialise\ la\ carte\ du\ jeu\r\n\ Elle\ associe\ les\ commandes\ entr\u00E9es\ par\ l'utilisateur\ avec\ les\ fonctions\ associ\u00E9s\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Constructeur\ par\ defaut\ de\ la\ classe\ Game\r\n\ Il\ appelle\ la\ methode\ createRooms\ afin\ d'initialiser\ les\ maps\r\n
+numComments=2

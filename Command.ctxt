@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ Cette\ classe\ est\ une\ classe\ du\ jeu\:\ The\ legend\ of\ Zuulda\r\n\ C'est\ un\ jeu\ d'aventure\ dans\ le\ style\ d'un\ rpg\r\n\ \r\n\ Comand\ est\ la\ classe\ qui\ v\u00E9rifie\ la\ validit\u00E9\ de\ la\ commande\ entr\u00E9\ pas\ l'utilisateur\r\n
+comment1.params=p1\ p2
+comment1.target=Command(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ naturel\ de\ la\ classe\ Command\r\n\ Elle\ initialise\ les\ arguments\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandWord()
+comment2.text=\r\n\ Accesseur\ de\ l'argument\ aCommandWord\ qui\ est\ la\ premi\u00E8re\ commande\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\r\n\ Accesseur\ de\ l'argument\ aSecondWord\ qui\ est\ la\ seconde\ commande\r\n
+comment4.params=
+comment4.target=boolean\ hasSecondWord()
+comment4.text=\r\n\ Fonction\ qui\ permet\ de\ savoir\ si\ l'utilsateur\ a\ entr\u00E9\ une\ commande\ ou\ une\ double\ commande\r\n
+comment5.params=
+comment5.target=boolean\ isUnknown()
+comment5.text=\r\n\ Fonction\ qui\ permet\ de\ v\u00E9rifier\ si\ la\ fonction\ est\ existante\ ou\ non\r\n
+numComments=6
